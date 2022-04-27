@@ -1,0 +1,104 @@
+2022-04-27 00:02:51 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 00:02:51 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 00:02:51 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 00:02:51 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 00:02:51 INFO  Logs:25 - Url dogrulandi
+2022-04-27 00:02:54 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 00:02:56 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 00:02:56 INFO  Logs:25 - İkinci sayfada oldugu dogrulandi
+2022-04-27 00:03:01 INFO  Logs:25 - Random urun secildi
+2022-04-27 00:03:01 INFO  Logs:25 - Ürün bilgileri txt dosyasina yazildi
+2022-04-27 00:03:01 INFO  Logs:25 - Sepete eklendi
+2022-04-27 00:03:07 INFO  Logs:25 - Sepete gidildi
+2022-04-27 00:03:07 INFO  Logs:25 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyati doğrulandi
+2022-04-27 00:03:07 INFO  Logs:25 - Ürün adedi 2 ye cikarildi
+2022-04-27 00:03:08 INFO  Logs:25 - Ürünün 2 adet oldugu dogrulandi
+2022-04-27 00:34:31 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 00:34:31 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 00:34:31 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 00:34:31 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 00:34:31 INFO  Logs:25 - Url dogrulandi
+2022-04-27 00:34:36 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 00:34:58 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 00:34:58 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 00:34:58 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 00:34:58 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 00:34:58 INFO  Logs:25 - Url dogrulandi
+2022-04-27 00:35:04 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 00:35:09 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 06:29:45 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 06:29:45 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 06:29:45 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 06:29:45 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 06:29:46 INFO  Logs:25 - Url dogrulandi
+2022-04-27 06:29:50 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 06:29:52 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 06:29:52 INFO  Logs:25 - İkinci sayfada oldugu dogrulandi
+2022-04-27 06:29:57 INFO  Logs:25 - Random urun secildi
+2022-04-27 06:29:57 INFO  Logs:25 - Ürün bilgileri txt dosyasina yazildi
+2022-04-27 06:29:57 INFO  Logs:25 - Sepete eklendi
+2022-04-27 06:30:04 INFO  Logs:25 - Sepete gidildi
+2022-04-27 06:30:04 INFO  Logs:25 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyati doğrulandi
+2022-04-27 06:30:04 INFO  Logs:25 - Ürün adedi 2 ye cikarildi
+2022-04-27 06:30:05 INFO  Logs:25 - Ürünün 2 adet oldugu dogrulandi
+2022-04-27 06:32:00 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 06:32:00 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 06:32:00 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 06:32:00 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 06:32:00 INFO  Logs:25 - Url dogrulandi
+2022-04-27 06:32:06 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 06:32:08 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 06:32:08 INFO  Logs:25 - İkinci sayfada oldugu dogrulandi
+2022-04-27 06:32:13 INFO  Logs:25 - Random urun secildi
+2022-04-27 06:32:13 INFO  Logs:25 - Ürün bilgileri txt dosyasina yazildi
+2022-04-27 06:32:13 INFO  Logs:25 - Sepete eklendi
+2022-04-27 06:32:19 INFO  Logs:25 - Sepete gidildi
+2022-04-27 06:32:19 INFO  Logs:25 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyati doğrulandi
+2022-04-27 06:32:20 INFO  Logs:25 - Ürün adedi 2 ye cikarildi
+2022-04-27 06:32:20 INFO  Logs:25 - Ürünün 2 adet oldugu dogrulandi
+2022-04-27 06:33:40 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 06:33:40 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 06:33:40 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 06:33:40 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 06:33:40 INFO  Logs:25 - Url dogrulandi
+2022-04-27 06:33:45 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 06:33:47 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 06:33:47 INFO  Logs:25 - İkinci sayfada oldugu dogrulandi
+2022-04-27 06:33:52 INFO  Logs:25 - Random urun secildi
+2022-04-27 06:33:52 INFO  Logs:25 - Ürün bilgileri txt dosyasina yazildi
+2022-04-27 06:33:52 INFO  Logs:25 - Sepete eklendi
+2022-04-27 06:33:58 INFO  Logs:25 - Sepete gidildi
+2022-04-27 06:33:59 INFO  Logs:25 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyati doğrulandi
+2022-04-27 06:33:59 INFO  Logs:25 - Ürün adedi 2 ye cikarildi
+2022-04-27 06:34:00 INFO  Logs:25 - Ürünün 2 adet oldugu dogrulandi
+2022-04-27 06:34:02 INFO  Logs:25 - Sepetin bos oldugu dogrulandi
+2022-04-27 07:08:49 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 07:08:49 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 07:08:49 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 07:08:49 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 07:08:49 INFO  Logs:25 - Url dogrulandi
+2022-04-27 07:08:55 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 07:08:58 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 07:08:58 INFO  Logs:25 - İkinci sayfada oldugu dogrulandi
+2022-04-27 07:09:04 INFO  Logs:25 - Random urun secildi
+2022-04-27 07:09:04 INFO  Logs:25 - Ürün bilgileri txt dosyasina yazildi
+2022-04-27 07:09:05 INFO  Logs:25 - Sepete eklendi
+2022-04-27 07:09:11 INFO  Logs:25 - Sepete gidildi
+2022-04-27 07:09:11 INFO  Logs:25 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyati doğrulandi
+2022-04-27 07:09:11 INFO  Logs:25 - Ürün adedi 2 ye cikarildi
+2022-04-27 07:09:33 INFO  Logs:9 - ---------------------------------------------------------------------------------------
+2022-04-27 07:09:33 INFO  Logs:10 - ***********************        GittiGidiyor Test START    **************************
+2022-04-27 07:09:33 INFO  Logs:11 - ---------------------------------------------------------------------------------------
+2022-04-27 07:09:33 INFO  Logs:25 - Gittigidiyor url'ine gidildi
+2022-04-27 07:09:33 INFO  Logs:25 - Url dogrulandi
+2022-04-27 07:09:37 INFO  Logs:25 - Arama kutusuna bilgisayar yazdilip aratildi
+2022-04-27 07:09:39 INFO  Logs:25 - İkinci sayfaya tiklandi
+2022-04-27 07:09:39 INFO  Logs:25 - İkinci sayfada oldugu dogrulandi
+2022-04-27 07:09:44 INFO  Logs:25 - Random urun secildi
+2022-04-27 07:09:44 INFO  Logs:25 - Ürün bilgileri txt dosyasina yazildi
+2022-04-27 07:09:44 INFO  Logs:25 - Sepete eklendi
+2022-04-27 07:09:50 INFO  Logs:25 - Sepete gidildi
+2022-04-27 07:09:50 INFO  Logs:25 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyati doğrulandi
+2022-04-27 07:09:50 INFO  Logs:25 - Ürün adedi 2 ye cikarildi
+2022-04-27 07:09:51 INFO  Logs:25 - Ürünün 2 adet oldugu dogrulandi
+2022-04-27 07:09:53 INFO  Logs:25 - Sepetin bos oldugu dogrulandi
