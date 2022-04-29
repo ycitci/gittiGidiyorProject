@@ -24,15 +24,15 @@ public class TrelloApiTest extends TestBaseApi {
     ApiData apiData = new ApiData();
     public static int count=0;
 
-    public void createBoard() {
-        HashMap<String,String> requestData = apiData.requestData();
-        requestData.put("name","board1");
+    public TrelloApiTest createBoard() {
+        HashMap<String,String> requestBody = apiData.requestData();
+        requestBody.put("name","board1");
         setUp();
         spec.pathParams("parametre1", 1, "parametre2", "boards");
         response = given().
                 spec(spec).
                 contentType("application/json").
-                body(apiData.requestData()).
+                body(requestBody).
                 when().
                 post("/{parametre1}/{parametre2}");
         jsonPath = response.jsonPath();
@@ -40,9 +40,10 @@ public class TrelloApiTest extends TestBaseApi {
         Assert.assertEquals("board1", jsonPath.getString("name"));
         boardId=jsonPath.getString("id");
 
+        return this;
     }
 
-    public void createList() {
+    public TrelloApiTest createList() {
         setUp();
         spec.pathParams("parametre1", 1, "parametre2", "lists");
         HashMap<String, String> requestBody = apiData.requestData();
@@ -58,9 +59,10 @@ public class TrelloApiTest extends TestBaseApi {
         listId=jsonPath.getString("id");
         Assert.assertEquals(200, response.getStatusCode());
         Assert.assertEquals("list", jsonPath.getString("name"));
+        return this;
     }
 
-    public void createCard() {
+    public TrelloApiTest createCard() {
         setUp();
         spec.pathParams("parametre1", 1, "parametre2", "cards");
         HashMap<String, String> requestBody =apiData.requestData();
@@ -78,9 +80,10 @@ public class TrelloApiTest extends TestBaseApi {
 
         Assert.assertEquals(200, response.getStatusCode());
         Assert.assertEquals("card", jsonPath.getString("name"));
+        return this;
     }
 
-    public void updateCard() {
+    public TrelloApiTest updateCard() {
       int random=hooks.randomCount(cardIdList.size());
         setUp();
         spec.pathParams("parametre1", 1, "parametre2", "cards");
@@ -97,8 +100,9 @@ public class TrelloApiTest extends TestBaseApi {
 
         Assert.assertEquals(200, response.getStatusCode());
         Assert.assertEquals("updatecard", jsonPath.getString("name"));
+        return this;
     }
-    public void deleteCard() {
+    public TrelloApiTest deleteCard() {
         setUp();
         spec.pathParams("parametre1", 1, "parametre2", "cards","parametre3",cardIdList.get(count));
         count++;
@@ -112,9 +116,10 @@ public class TrelloApiTest extends TestBaseApi {
                 when().
                 delete("/{parametre1}/{parametre2}/{parametre3}");
         Assert.assertEquals(200, response.getStatusCode());
+        return this;
 
     }
-    public void deleteBoard() {
+    public TrelloApiTest deleteBoard() {
         setUp();
         spec.pathParams("parametre1", 1, "parametre2", "cards","parametre3", boardId);
         HashMap<String, String> requestBody =apiData.requestData();
@@ -127,5 +132,6 @@ public class TrelloApiTest extends TestBaseApi {
                 when().
                 delete("/{parametre1}/{parametre2}/{parametre3}");
         Assert.assertEquals(200, response.getStatusCode());
+        return this;
     }
 }
